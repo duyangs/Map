@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/menu_search"
+        android:orderInCategory="80"
+        android:title="@string/search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_location"
+        android:icon="@drawable/menu_location"
+        android:orderInCategory="80"
+        android:title="@string/location"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_type_normal"
+        android:orderInCategory="80"
+        android:title="@string/map_tyep_normal"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_type_satellite"
+        android:orderInCategory="80"
+        android:title="@string/map_type_satellite"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_type_none"
+        android:orderInCategory="80"
+        android:title="@string/map_type_none"
+        app:showAsAction="never" />
+</menu>

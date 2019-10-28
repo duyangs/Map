@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_poi"
+        android:orderInCategory="80"
+        android:title="@string/poi_search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sug"
+        android:orderInCategory="80"
+        android:title="@string/sug_search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bus"
+        android:orderInCategory="80"
+        android:title="@string/bus_search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_gen"
+        android:orderInCategory="80"
+        android:title="@string/gen_code"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_district"
+        android:orderInCategory="80"
+        android:title="@string/district_search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_lbs"
+        android:orderInCategory="80"
+        android:title="@string/cloud_lbs"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rgc"
+        android:orderInCategory="80"
+        android:title="@string/cloud_rgc"
+        app:showAsAction="never" />
+</menu>

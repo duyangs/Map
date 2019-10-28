@@ -1,0 +1,38 @@
+duyangdemini:~ ryandu$ keytool -list -v -keystore /Users/ryandu/AndroidStudioProjects/work/Map/sample/map.jks
+输入密钥库口令:
+
+密钥库类型: JKS
+密钥库提供方: SUN
+
+您的密钥库包含 1 个条目
+
+别名: map
+创建日期: 2018-7-22
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: CN=map, OU=ximimax, O=ximimax, L=SH, ST=SH, C=86
+发布者: CN=map, OU=ximimax, O=ximimax, L=SH, ST=SH, C=86
+序列号: 72c0edc8
+有效期开始日期: Sun Jul 22 17:37:58 CST 2018, 截止日期: Thu Jul 16 17:37:58 CST 2043
+证书指纹:
+	 MD5: 78:9E:64:1F:B5:34:CD:CF:0C:DA:35:55:70:B4:04:A9
+	 SHA1: 00:BC:43:C2:A1:2A:4E:4C:4E:DD:83:0F:F7:61:07:94:3B:A1:10:E9
+	 SHA256: EF:E2:12:1B:13:CD:85:71:5B:CA:05:22:27:F7:8E:C4:59:CC:C8:87:BA:A2:6D:AD:B5:84:23:30:6B:29:85:AC
+	 签名算法名称: SHA256withRSA
+	 版本: 3
+
+扩展:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: F4 23 21 04 9F 0C CD 6F   EE 35 94 E3 80 12 75 6B  .#!....o.5....uk
+0010: 49 80 B0 D6                                        I...
+]
+]
+
+
+
+*******************************************
+*******************************************

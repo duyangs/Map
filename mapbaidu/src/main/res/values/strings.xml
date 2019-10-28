@@ -1,0 +1,15 @@
+<resources>
+    <string name="baidu_map">Baidu Map</string>
+    <string name="search">Search</string>
+    <string name="poi_search">POI检索</string>
+    <string name="sug_search">POI热词建议检索</string>
+    <string name="bus_search">公交信息检索</string>
+    <string name="gen_code">地理编码</string>
+    <string name="district_search">检索行政区边界数据</string>
+    <string name="cloud_lbs">检索自有LBS云数据</string>
+    <string name="cloud_rgc">检索自有逆地理编码</string>
+    <string name="location">定位</string>
+    <string name="map_tyep_normal">普通地图</string>
+    <string name="map_type_satellite">卫星地图</string>
+    <string name="map_type_none">空白地图</string>
+</resources>
